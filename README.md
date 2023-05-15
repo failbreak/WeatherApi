@@ -1,4 +1,4 @@
-# WeatherApi
+# WeatherApi [![.NET](https://github.com/failbreak/WeatherApi/actions/workflows/dotnet.yml/badge.svg?branch=master)](https://github.com/failbreak/WeatherApi/actions/workflows/dotnet.yml)
 MicroService that calls dmi weather api
 
 ## instruction
